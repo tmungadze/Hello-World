@@ -1,2 +1,2 @@
 # Hello-World
-Basic coding skilla
+Basic coding skills
